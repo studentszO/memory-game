@@ -3,4 +3,14 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  display: flex;
+  gap: 24px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.bg-gradient {
+  background: var(--gray30);
+  background: #1c1c1c;
+  background: radial-gradient(at right top, #1c1c1c, #353535);
 }

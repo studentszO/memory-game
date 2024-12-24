@@ -14,8 +14,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
-  --main-clr: hsl(23, 100%, 60%);
-  --main-clr-darker: hsl(23, 100%, 50%);
+  --main-clr: hsl(56, 76%, 45%);
   --ff: "Raleway", sans-serif;
   --title: bold 2rem/1.4em var(--ff);
   --h1: bold 1.125rem/1.4em var(--ff);
@@ -43,7 +42,6 @@
 html {
   display: flex;
   justify-content: center;
-  align-items: center;
   height: 100vh;
   background-image: url(./assets/bg.png);
 }
