@@ -1,0 +1,7 @@
+.scores-container {
+  padding: 10px 30px;
+  border: 1px solid var(--main-clr);
+  border-radius: 6px;
+  text-align: left;
+  font: var(--h1);
+}
