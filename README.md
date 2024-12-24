@@ -1,8 +1,12 @@
-# React + Vite
+# Memory Card game by chryszO - version Pokemon!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Memory Card game for The Odin Project.
 
-Currently, two official plugins are available:
+Second project made with ReactJS.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## What I learned or got better at
+- How to use React with .jsx files.
+- How to use the React Hook useState.
+- How to use the React Hook useEffect.
+- How to fetch data from an API and use this data.
+
